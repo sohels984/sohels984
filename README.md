@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sohels984
 - 👀 I’m interested in data analytics
-- 🌱 I’m currently learning Pandas Data Operations Mastery
+- 🌱 I’m currently Completed EDA.
 - 💞️ I’m looking to collaborate on high leavel performance
 - 📫 How to reach me ...
 
